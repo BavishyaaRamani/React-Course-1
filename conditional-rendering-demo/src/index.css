@@ -1,0 +1,9 @@
+.user{
+    font-size: 2.5em;
+    background-color: rgb(209, 203, 125);
+}
+
+.guest{
+    font-size: 2em;
+    background-color: rgb(203, 116, 113);
+}
